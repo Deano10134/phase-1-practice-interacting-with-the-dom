@@ -1,0 +1,10 @@
+ .activated-heart {
+      color: red;
+    }
+    .comments p {
+  background: #f0f0f0;
+  padding: 6px 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+  font-family: sans-serif;
+}

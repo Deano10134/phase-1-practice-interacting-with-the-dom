@@ -16,7 +16,7 @@ has a few features:
   displayed by the timer
 - A comment box that adds comments when submitted
 
-First, take a few minutes to explore and test out the behavior of the page.
+First, take a few minutes to explore and test out the behaviour of the page.
 Think about how each of the features must work. What must be happening
 underneath each of these features?
 
@@ -34,7 +34,7 @@ complete in Canvas.
 ### Getting Started
 
 To begin, comment out the script tag linking to `js/index.min.js` in the html
-file. This will "shut off" the existing behaviors so you can begin recreating
+file. This will "shut off" the existing behaviours so you can begin recreating
 them, using the `js/challenge.js` file to write your code. You can see the
 `<script>` tag that loads this file just after the one for `index.min.js`.
 
